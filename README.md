@@ -1,2 +1,2 @@
 # hello-world
-u know what it is
+Very nice program yes
